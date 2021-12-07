@@ -1,0 +1,58 @@
+{
+    "question": [
+      "Q1. What Indian city is the capital of two states?",
+      "Q2. Which city is the capital of India?",
+      "Q3. Smallest State of India?",
+      "Q4. Where is Taj Mahal Located?",
+      "Q5. Which of the following is the capital of Arunachal Pradesh?",
+      "Q6. What are the major languages spoken in Andhra Pradesh?",
+      "Q7. What is the state flower of Haryana?"
+    ],
+    "answer": [
+      1,
+      2,
+      3,
+      2,
+      1,
+      2,
+      1
+    ],
+    "options": [
+  
+      ["Chandigarh",
+        "Kolkata",
+        "Delhi",
+        "Banglore"
+      ],
+      ["Jaipur",
+        "Delhi",
+        "Chennai",
+        "Mumbai"
+      ],
+      ["Rajasthan",
+        "Punjab",
+        "Goa",
+        "Bihar"
+      ],
+      ["Lucknow",
+        "Agra",
+        "Bhopal",
+        "Delhi"
+      ],
+      ["Itanagar",
+         "Dispur",
+         "Imphal",
+         "Panaji"
+      ],
+      ["Odia and Telugu",
+       "Telugu and Urdu",
+       "Telugu and Kannada",
+       "All of the above languages"
+      ],
+      ["Lotus",
+       "Rhododendron",
+       "Golden Shower",
+       "Not declared"
+      ]
+    ]
+}
